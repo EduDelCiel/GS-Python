@@ -1,0 +1,23 @@
+Integrantes:
+
+Henrique Guedes Silvestre  
+RM: 562474
+
+Eduardo Duran Del Ciel 
+RM:562017
+
+Todos os dados foram pegos no GAPMINDER
+
+link dos csv:
+
+Expectativa de Vida: Life Expectancy, at birth
+Pib per Capita: GDP per capita
+Populacao: Population
+Forca de Trabalho: Aged 15+ Labour force Participation rate (%)
+
+
+No CSV de setores economicos juntamos 3 lista:
+
+Agricultura: Agricutlure workers (% of employment)
+Industria: Industry Workers (% of employment)
+Servicos: Service Workers (% of employment)
